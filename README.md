@@ -9,7 +9,7 @@ The dataset includes fields such as Booking_ID, Date, Vehicle_Type, Booking_Stat
 using Power BI’s advanced features like DAX, slicers, and buttons. Each dashboard focuses on one domain—ratings, cancellations, revenue, vehicle trends, and overall performance—allowing a targeted and
 interactive exploration of key metrics.
 
-Problems Solved Through This Project
+Problems Solved Through This Project:
 1. Ride Volume Over Time: Analyzed ride activity trends to understand peak booking periods, which can help optimize fleet distribution and marketing efforts.
 
 2. Booking Status Breakdown: Categorized completed, cancelled, and incomplete rides to identify service delivery gaps and improve customer experience.

@@ -1,10 +1,10 @@
-Project Description
+Project Description:
 This project is a comprehensive analysis of OLA ride data using Power BI, aimed at deriving actionable insights from ride bookings, customer and driver behavior, vehicle usage, cancellations, and revenue
 trends. The dataset contains records of rides, including booking information, distances, payment methods, ratings, and more. By transforming this raw data into interactive visuals and reports, this project
 helps understand key performance metrics and user behavior patterns critical for business decisions.To provide a user-friendly experience, the analysis is divided into five well-structured dashboards, each
 focused on a specific area of interest. These dashboards are interconnected through navigation buttons, making it easy to switch between different views and extract insights seamlessly.
 
-Project Details
+Project Details:
 The dataset includes fields such as Booking_ID, Date, Vehicle_Type, Booking_Status, Ride_Distance, Payment_Method, Driver_Ratings, Customer_Rating, and more. These were cleaned, modeled, and visualized
 using Power BI’s advanced features like DAX, slicers, and buttons. Each dashboard focuses on one domain—ratings, cancellations, revenue, vehicle trends, and overall performance—allowing a targeted and
 interactive exploration of key metrics.
